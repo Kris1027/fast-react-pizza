@@ -1,8 +1,20 @@
-# React + Vite
+# Course project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Technologies:</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Tailwind</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>React-Router</li>
+  <li>Redux</li>
+</ul>
 
-Currently, two official plugins are available:
+<h2>ScreenShots:</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screenshot](https://github.com/Kris1027/fast-react-pizza/assets/120410235/436f7c54-8d5e-4ae5-a779-3c1374c4011e)
+
+![screenshot (1)](https://github.com/Kris1027/fast-react-pizza/assets/120410235/4bc5a590-98f3-479f-96f4-5238404d7243)
+
+![screenshot (2)](https://github.com/Kris1027/fast-react-pizza/assets/120410235/2efd1006-8209-4beb-82a3-7235f3f13d4a)
