@@ -1,4 +1,6 @@
-# Course project
+# Course project by Jonas Schmedtmann
+
+<h1>Fast React Pizza</h1>
 
 <h2>Technologies:</h2>
 <ul>
